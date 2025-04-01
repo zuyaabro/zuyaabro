@@ -1,4 +1,4 @@
-<p align="center"> ## Hi there, I'm Zuya Abro ☕️ </p>
+## <p align="center"> Hi there, I'm Zuya Abro ☕️ </p>
 <p align="center">
 🌸 I'm a fullstack developer and lifelong learner <br>
 🧠 Passionate about problem-solving and creating impactful solutions <br>
