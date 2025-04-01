@@ -2,6 +2,7 @@
 <h3 align="center">Fullstack Developer and LifeLong Learner, always</h3>
 
 <p align="center">
+  
 - 🔭 I’m currently working on **Frequency**
 
 - 💬 Ask me about **my favourite coffee shop**
