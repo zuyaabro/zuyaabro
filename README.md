@@ -3,7 +3,7 @@
 🌸 I'm a fullstack developer and lifelong learner <br>
 🧠 Passionate about problem-solving and creating impactful solutions <br>
 🎵 I'm currently working on Frequency, a music based platform to connect Spotify users <br>
-🐝 Reach me through LinkedIn [zuyaabro](linkedin.com/in/zuyaabro)
+🐝 Reach me through LinkedIn [zuyaabro] (linkedin.com/in/zuyaabro)
 </p>
 <!--
 **zuyaabro/zuyaabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
