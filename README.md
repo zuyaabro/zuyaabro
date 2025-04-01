@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Zuya Abro ☕️</h1>
 <h3 align="center">Fullstack Developer and LifeLong Learner, always</h3>
 
-<p align="center">
+
   
-- 🔭 I’m currently working on **Frequency**
+<p align="center"> - 🔭 I’m currently working on **Frequency** </p>
 
-- 💬 Ask me about **my favourite coffee shop**
+<p align="center"> - 💬 Ask me about **my favourite coffee shop** </p>
 
-- 📫 How to reach me **zuyaabro@gmail.com**
-
-</p>
+<p align="center"> - 📫 How to reach me **zuyaabro@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
