@@ -3,7 +3,7 @@
 
 
   
-<p align="center"> 🔭 I’m currently working on Frequency </p>
+<p align="center"> 🔭 I’m currently working on Frequency, a music based platform to connect Spotify users </p>
 
 <p align="center"> 💬 Ask me about my favourite coffee shop </p>
 
