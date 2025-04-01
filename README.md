@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zuya Abro ☕️</h1>
 <h3 align="center">Fullstack Developer and Lifelong Learner, Always</h3>
 
-# 💫 About Me:
+# 🍜 About Me:
 📀 I'm currently working on Frequency, a music-based platform to connect Spotify users<br><br>🧠 Passionate about backend development, problem solving, and building efficient solutions<br><br>🌸 Ask me about my favourite coffee shop<br><br>🎀 How to reach me: zuyaabro@gmail.com
 
 
@@ -13,6 +13,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zuyaabro&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zuyaabro&theme=dark&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zuyaabro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
