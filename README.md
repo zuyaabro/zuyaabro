@@ -2,13 +2,13 @@
 <h3 align="center">Fullstack Developer and Lifelong Learner, Always</h3>
 
 <p align="center">
-  🔭 I’m currently working on Frequency, a music-based platform to connect Spotify users
+💻 I’m currently working on Frequency, a music-based platform to connect Spotify users
 </p>
 <p align="center">
-  💬 Ask me about my favourite coffee shop
+🌸 Ask me about my favourite coffee shop
 </p>
 <p align="center">
-  📫 How to reach me: <a href="mailto:zuyaabro@gmail.com">zuyaabro@gmail.com</a>
+🎀 How to reach me: <a href="mailto:zuyaabro@gmail.com">zuyaabro@gmail.com</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
