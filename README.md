@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer and Lifelong Learner, Always</h3>
 
 <p align="center">
-💻 I’m currently working on Frequency, a music-based platform to connect Spotify users
+📀 I'm currently working on Frequency, a music-based platform to connect Spotify users
 </p>
 <p align="center">
 🧠 Passionate about backend development, problem solving, and building efficient solutions 
