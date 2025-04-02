@@ -14,13 +14,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zuyaabro&show_icons=true&locale=en&theme=dark&icon_color=ff69b4" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zuyaabro&show_icons=true&locale=en&theme=tokyonight&icon_color=ff69b4" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=zuyaabro&theme=dark&icon_color=ff69b4&hide_border=false" alt="Streak Stats" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=zuyaabro&theme=tokyonight&icon_color=ff69b4&hide_border=false" alt="Streak Stats" />
     </td>
     <td>
       <img src="https://github-contributor-stats.vercel.app/api?username=zuyaabro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
     </td>
   </tr>
 </table>
+
