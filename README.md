@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer and Lifelong Learner, Always</h3>
 
 # 🍜 About Me:
-🕺 I'm currently working on Frequency, a music-based platform to connect Spotify users<br><br>🧠 Passionate about backend development, problem solving, and building efficient solutions<br><br>🔮 What's next? Expanding my expertise with React Native and Ruby on Rails<br><br>🌸 Ask me about my favourite coffee shop<br><br>🎀 How to reach me: zuyaabro@gmail.com
+🕺 I'm currently working on Frequency, a music-based platform to connect Spotify users<br><br>🧠 Passionate about full-stack development, problem solving, and building efficient solutions<br><br>🔮 What's next? Expanding my expertise with React Native and Ruby on Rails<br><br>🌸 Ask me about my favourite coffee shop<br><br>🎀 How to reach me: zuyaabro@gmail.com
 
 
 ## 🌐 Socials:
